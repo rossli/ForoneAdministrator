@@ -1,6 +1,6 @@
 {
   "name": "rossli/study",
-  "description": "Admin system based on Laravel 5.2",
+  "description": "Admin system based on Laravel 5.4",
   "homepage": "https://github.com/ForoneTech/LaravelAdmin",
   "keywords": ["framework", "laravel","forone","laravel 5.2"],
   "license": "MIT",
